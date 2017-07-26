@@ -1,0 +1,10 @@
+.idea/
+**/*.iml
+**/target/
+../.project
+../.settings
+.classpath
+.project
+.settings/
+.tomcatplugin
+**/*.orig
